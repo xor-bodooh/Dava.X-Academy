@@ -1,0 +1,52 @@
+[
+  {
+    "title": "1984",
+    "themes": ["freedom", "social control", "surveillance", "politics"],
+    "summary": "George Orwell's dystopian novel follows Winston Smith, a worker who secretly questions a totalitarian government. Society is controlled through surveillance, propaganda, and the rewriting of history. Winston's search for truth and freedom brings him into conflict with the system."
+  },
+  {
+    "title": "The Hobbit",
+    "themes": ["friendship", "adventure", "magic", "courage"],
+    "summary": "Bilbo Baggins is a quiet hobbit whose life changes when he joins a group of dwarves on a quest to recover their homeland and treasure. During the journey, he encounters danger, discovers unexpected courage, and meets the dragon Smaug."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "themes": ["love", "society", "family", "personal growth"],
+    "summary": "Elizabeth Bennet navigates family expectations, social class, and complicated relationships in nineteenth-century England. Her changing relationship with Mr. Darcy challenges both characters to overcome pride, prejudice, and incorrect first impressions."
+  },
+  {
+    "title": "Frankenstein",
+    "themes": ["science", "ambition", "responsibility", "isolation"],
+    "summary": "Victor Frankenstein creates a living being through an ambitious scientific experiment. Horrified by the result, he abandons it, leading to loneliness, anger, and tragedy. The novel explores scientific responsibility and the consequences of rejecting others."
+  },
+  {
+    "title": "The Little Prince",
+    "themes": ["friendship", "love", "imagination", "meaning"],
+    "summary": "A pilot stranded in the desert meets a mysterious young prince from another asteroid. Through stories about his travels and relationships, the prince reveals lessons about friendship, responsibility, and seeing beyond appearances."
+  },
+  {
+    "title": "The Alchemist",
+    "themes": ["dreams", "purpose", "journey", "self-discovery"],
+    "summary": "Santiago, a young shepherd, travels from Spain toward Egypt in search of a treasure revealed in a dream. Along the way, he learns to recognize meaningful opportunities, follow his purpose, and understand the value of his journey."
+  },
+  {
+    "title": "Dune",
+    "themes": ["politics", "power", "ecology", "destiny"],
+    "summary": "Paul Atreides and his family are placed in control of the desert planet Arrakis, the source of a valuable substance. Political betrayal forces Paul into the desert, where he becomes connected to its people, ecology, and powerful forces of change."
+  },
+  {
+    "title": "The Book Thief",
+    "themes": ["war", "friendship", "loss", "the power of words"],
+    "summary": "During World War II, a young girl named Liesel finds comfort in stealing and reading books. Her friendships and her decision to hide a Jewish man reveal how courage, kindness, and language can survive in a violent society."
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "themes": ["friendship", "fantasy", "good versus evil", "sacrifice"],
+    "summary": "Frodo Baggins inherits a powerful ring that could help an ancient enemy return to power. He leaves home with a fellowship of companions who must protect him and carry the ring toward its destruction."
+  },
+  {
+    "title": "The Martian",
+    "themes": ["survival", "science", "problem-solving", "perseverance"],
+    "summary": "After being left behind on Mars, astronaut Mark Watney must use science, engineering, and creativity to survive. While he works alone, teams on Earth attempt to find a way to bring him home."
+  }
+]
